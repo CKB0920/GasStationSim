@@ -1,2 +1,0 @@
-- Generic appearance
-- Greater chance of doing nothing of significance

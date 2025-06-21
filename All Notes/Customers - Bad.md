@@ -1,2 +1,0 @@
-- Nastier appearance
-- Greater odds of making messes

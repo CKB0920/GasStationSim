@@ -1,1 +1,0 @@
-Machine part of operating the gas system at a gas station. It's exact function needs to be researched, but I know from experience that It can monitor the underground gas tanks and their capacity and sound an alarm if certain events happen. (Gas theft, Gas leak, Water detected, Low product, High product, and etc...) Kept in the back near the electrical box and the office. 

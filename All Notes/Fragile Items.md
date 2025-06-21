@@ -1,3 +1,0 @@
-Certain items should take damage or break completely once the item has taken enough damage. If boxes of stock are tossed around, overall quantity % of that box of stock should decrease depending on the item and it's "durability". Possible item variables are
-`health`-Health of the item
-`durability`-How well the item "absorbs" some of the damage inflicted. An item with 100 durability will receive no damage when thrown around. An item with 50 durability will only receive 50% of the damage inflicted to that item.
