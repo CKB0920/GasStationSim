@@ -1,0 +1,2 @@
+- Neater appearances
+- Chances to notify player(s) of messes or other inconveniencies.
